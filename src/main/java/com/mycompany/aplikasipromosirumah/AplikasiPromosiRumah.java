@@ -8,6 +8,7 @@ public class AplikasiPromosiRumah {
         Scanner scanner = new Scanner(System.in);
 
         ArrayList<DataRumah> dataRumahList = new ArrayList<DataRumah>();
+        ArrayList<DataRumah> Chat = new ArrayList<DataRumah>();
         ArrayList<FormPengajuan> formList = new ArrayList<FormPengajuan>();
         ArrayList<WaktuTersediaForm> waktuList = new ArrayList<WaktuTersediaForm>();
 
